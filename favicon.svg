@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Pawsitive Pet Groomer logo">
+  <circle cx="32" cy="32" r="31" fill="#2F4A3F"/>
+  <circle cx="32" cy="32" r="26" fill="none" stroke="#E9C9A8" stroke-width="1.5" stroke-dasharray="2 3"/>
+  <g fill="#F7EFE4">
+    <ellipse cx="21" cy="25" rx="4.2" ry="5.6" transform="rotate(-18 21 25)"/>
+    <ellipse cx="28.5" cy="19.5" rx="4.2" ry="5.8"/>
+    <ellipse cx="36.5" cy="19.5" rx="4.2" ry="5.8"/>
+    <ellipse cx="44" cy="25" rx="4.2" ry="5.6" transform="rotate(18 44 25)"/>
+    <path d="M32.5 29c-6.5 0-12 7.6-12 12.6 0 3.7 3 5.4 6.2 5.4 2.6 0 3.9-1.2 5.8-1.2s3.2 1.2 5.8 1.2c3.2 0 6.2-1.7 6.2-5.4C44.5 36.6 39 29 32.5 29z"/>
+  </g>
+  <path d="M27 38.5l3.6 3.4 7-7" fill="none" stroke="#C8734F" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
