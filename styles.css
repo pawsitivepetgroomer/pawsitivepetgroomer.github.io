@@ -659,3 +659,13 @@ main{overflow-x:clip}
 /* v7 hero: single-line headline */
 .hero-copy h1{font-size:clamp(3rem,7.2vw,5.6rem);margin-bottom:.22em;line-height:1.02}
 .hero-copy h1::after{content:"";display:block;width:clamp(120px,14vw,190px);height:14px;margin-top:.12em;background:var(--underline) no-repeat center/100% 100%}
+
+/* House calls only notice (Nov 2026) */
+.hc-notice{align-items:flex-start;border-radius:18px;max-width:34rem;line-height:1.45;font-weight:500}
+.hc-notice .dot{margin-top:.4em}
+.hc-notice strong{font-weight:700}
+.full-tag,.open-tag{flex:none !important;align-self:flex-start;margin:0 0 10px !important;font-size:.78rem;font-weight:700;letter-spacing:.04em;padding:.3em .8em;border-radius:999px}
+.full-tag{background:var(--cream-2);color:var(--terra-d)}
+.open-tag{background:var(--teal-soft,#DCEFEC);color:var(--teal-d,#3B7E79)}
+.hc-note{background:rgba(255,255,255,.12);border-left:4px solid var(--pink,#F0A8B8);padding:.7em 1em;border-radius:10px}
+.size-hint{text-align:left;margin-top:8px}
